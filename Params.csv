@@ -1,0 +1,23 @@
+# Prefix = short ID for the result file prefix
+# Cycles = how many steps in each experiment. 1 year = 10.86 steps
+# Repeat = how many times repeat each experiment
+# StartSum = starting portfolio size
+# DoubleWorldName = name of the world component
+# DoubleRebalance = how frequently rebalance double portfolio parts
+# DoubleWorldWeight = what weight to assign to the world in a double portfolios
+# Cutoff = required success rate for per-country summary
+# Bins = number of bins for distrbution building
+# StepsInYear = how many simulation steps are in one calendar year
+
+Prefix,E55_B30_R21,
+Cycles,400,
+Repeats,5000,
+StartSum,4000000,
+DoubleRebalance,400,
+DoubleWorldWeight,1,
+DoubleCountryWeight,2,
+DoubleWorldName, world.jpg,
+Cutoff,95,
+Bins,200,
+StepsInYear,10.8684,
+

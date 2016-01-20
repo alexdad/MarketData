@@ -1,0 +1,4 @@
+Tolerance2,12,
+Bills,Red,162,25,43,
+Bonds,Gray,152,143,136,
+Equity,Blue,26,61,99,
