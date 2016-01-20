@@ -16,11 +16,11 @@
 # SweepWorldShares = enumeration of values for WSHARE sweep
 
 Location,C:\Users\Sasha\Desktop\dmsres
-Prefix,E50_B20,
+Prefix,GrandPass,
 Cycles,400,
 Repeats,5000,
 StartSum,4000000,
-DoubleRebalance,400,
+DoubleRebalance,100,
 DoubleWorldWeight,1,
 DoubleCountryWeight,2,
 DoubleWorldName,World.jpg,
