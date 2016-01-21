@@ -11,4 +11,4 @@
 
 # Strategy,StartEq,StartBo,Withdrawal,Rebalance,
 
-3,50,20,2.8,11,
+3,70,20,4.0,11,
